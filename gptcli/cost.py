@@ -66,7 +66,7 @@ GPT_4_32K_PRICE_PER_TOKEN = {
 
 GPT_4_1106_PREVIEW_USD_PER_TOKEN = {
     "prompt": 0.01 / 1000,
-    "response": 0.3 / 1000,
+    "response": 0.03 / 1000,
 }
 
 CLAUDE_V1_PRICE_PER_TOKEN = {
